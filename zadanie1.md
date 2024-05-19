@@ -9,7 +9,6 @@ Ten projekt przedstawia proces budowania obrazu Dockera za pomocą aplikacji po 
 - [Image Building](#image-building)
 - [Container Running](#container-running)
 - [Diagnostics](#diagnostics)
-- [Repository And Scouting](#repository-and-scouting)
 
 ## Requirements
 
