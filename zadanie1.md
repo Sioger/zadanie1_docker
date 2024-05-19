@@ -1,5 +1,5 @@
-# docker-zadanie1-geoip-server-basic
-This project showcases the process of building a Docker image with a server-side application that respond with the client's IP and time.
+# docker-zadanie1
+Ten projekt przedstawia proces budowania obrazu Dockera za pomocą aplikacji po stronie serwera, która odpowiada adresem IP klienta i czasem.
 
 ## Table of Contents
 
